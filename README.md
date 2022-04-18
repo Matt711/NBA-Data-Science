@@ -39,7 +39,7 @@ Index(['Pos', 'Age', 'G', 'GS', 'MP', 'FG', 'FGA', 'FG%','3P', '3PA', '3P%', '2P
 
 ### After getting the per 100 possessions stats for every NBA player in the 2018-19 season, I needed to find the similarity scores between the stats. I did this by viewing each player as a feature vector with entries corresponding to the 26 stats that I kept track of. I then used a metric called cosine similarity which measures the cosine of the angle between two vectors in multi-dimensional space. The smaller the cosine similarity, the closer the feature vectors and the more similar the players are. From the scipy library,
 
-<img src="https://render.githubusercontent.com/render/math?math=1-\frac{u \cdot v}{\|u\|_{2}\|v\|_{2}}">
+![original image](https://cdn.mathpix.com/snip/images/qiwMKkKe3Hq55DPYuJqomFWYXFZYMxspXMGb29CQK7U.original.fullsize.png)
 
 ### Findings and Conclusion: Most of the players that I found were not suprising (as they are already well known). But I did find a few underrated players:
 
