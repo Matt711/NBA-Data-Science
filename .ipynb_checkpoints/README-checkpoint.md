@@ -47,13 +47,13 @@ Index(['Pos', 'Age', 'G', 'GS', 'MP', 'FG', 'FGA', 'FG%','3P', '3PA', '3P%', '2P
 <table>
 <tbody>
 <tr><td>Player</td><td>Team</td><td>Player Similar to</td></tr>
-<td>John Collins</td><td>Hawks</td><td>AD</td>
-<td>Lauri Markkanen</td><td>Bulls</td><td>Giannis</td>
-<td>Danilo Gallinari</td><td>Clippers</td><td>AD</td>
-<td>TJ Warren</td><td>Suns</td><td>AD</td>
-<td>Buddy Hield</td><td>Kings</td><td>AD</td>
-<td>Kris Dunn</td><td>Bulls</td><td>AD</td>
-<td>Josh Richardson</td><td>Heat</td><td>AD</td>
+<tr><td>John Collins</td><td>Hawks</td><td>AD</td></tr>
+<tr><td>Lauri Markkanen</td><td>Bulls</td><td>Giannis</td></tr>
+<tr><td>Danilo Gallinari</td><td>Clippers</td><td>AD</td></tr>
+<tr><td>TJ Warren</td><td>Suns</td><td>AD</td></tr>
+<tr><td>Buddy Hield</td><td>Kings</td><td>AD</td></tr>
+<tr><td>Kris Dunn</td><td>Bulls</td><td>AD</td></tr>
+<tr><td>Josh Richardson</td><td>Heat</td><td>AD</td></tr>
 </tbody>
 </table>
 
